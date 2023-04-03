@@ -1,4 +1,4 @@
-### Hi there 👋
+### 𝚌𝚘𝚖𝚒𝚗𝚐 𝚜𝚘𝚘𝚗
 
 <!--
 **xFutuxe/xfutuxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=gv249hji0p2zfm606upt052p3)
